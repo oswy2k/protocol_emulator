@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu2x -o CMakeFiles\\queue.dir\\src\\helpers\\queue\\mutex_queue.c.obj -c C:\\Users\\oswy2\\Documents\\Electivas_USB\\Github\\protocol_emulator\\src\\helpers\\queue\\mutex_queue.c",
+  "file": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/src/helpers/queue/mutex_queue.c",
+  "output": "CMakeFiles/queue.dir/src/helpers/queue/mutex_queue.c.obj"
+},
+{
+  "directory": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu2x -o CMakeFiles\\socket.dir\\src\\helpers\\socket\\win_socket.c.obj -c C:\\Users\\oswy2\\Documents\\Electivas_USB\\Github\\protocol_emulator\\src\\helpers\\socket\\win_socket.c",
+  "file": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/src/helpers/socket/win_socket.c",
+  "output": "CMakeFiles/socket.dir/src/helpers/socket/win_socket.c.obj"
+},
+{
+  "directory": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu2x -o CMakeFiles\\gpio.dir\\src\\interface\\gpio\\gpio.c.obj -c C:\\Users\\oswy2\\Documents\\Electivas_USB\\Github\\protocol_emulator\\src\\interface\\gpio\\gpio.c",
+  "file": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/src/interface/gpio/gpio.c",
+  "output": "CMakeFiles/gpio.dir/src/interface/gpio/gpio.c.obj"
+},
+{
+  "directory": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu2x -o CMakeFiles\\usart.dir\\src\\interface\\usart\\usart.c.obj -c C:\\Users\\oswy2\\Documents\\Electivas_USB\\Github\\protocol_emulator\\src\\interface\\usart\\usart.c",
+  "file": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/src/interface/usart/usart.c",
+  "output": "CMakeFiles/usart.dir/src/interface/usart/usart.c.obj"
+},
+{
+  "directory": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu2x -o CMakeFiles\\simulator.dir\\src\\protocol_simulator.c.obj -c C:\\Users\\oswy2\\Documents\\Electivas_USB\\Github\\protocol_emulator\\src\\protocol_simulator.c",
+  "file": "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/src/protocol_simulator.c",
+  "output": "CMakeFiles/simulator.dir/src/protocol_simulator.c.obj"
+}
+]

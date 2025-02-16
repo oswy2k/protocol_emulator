@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libusart.a CMakeFiles/usart.dir/src/interface/usart/usart.c.obj
+C:\msys64\ucrt64\bin\ranlib.exe libusart.a

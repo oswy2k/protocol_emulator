@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Protocol_Emulator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gpio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gpio-Debug-380cfa5de90462537d50.json",
+					"name" : "gpio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-queue-Debug-47c5796f018425d8a851.json",
+					"name" : "queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simulator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simulator-Debug-3c6d8b1580e9168cbac0.json",
+					"name" : "simulator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "socket::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-socket-Debug-fdf96296e1604b0cc322.json",
+					"name" : "socket",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "usart::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-usart-Debug-cc6792a5b24cd740d819.json",
+					"name" : "usart",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build",
+		"source" : "C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

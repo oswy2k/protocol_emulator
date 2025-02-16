@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.h": "c",
+		"type_traits": "c",
+		"compare": "c"
+	},
+	"C_Cpp.errorSquiggles": "disabled"
+}

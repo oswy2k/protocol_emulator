@@ -1,0 +1,7 @@
+C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build/CMakeFiles/simulator.dir
+C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build/CMakeFiles/socket.dir
+C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build/CMakeFiles/queue.dir
+C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build/CMakeFiles/gpio.dir
+C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build/CMakeFiles/usart.dir
+C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build/CMakeFiles/edit_cache.dir
+C:/Users/oswy2/Documents/Electivas_USB/Github/protocol_emulator/build/CMakeFiles/rebuild_cache.dir
